@@ -1,0 +1,9 @@
+SELECT name, fuel, horsepower, price FROM car WHERE price < 110
+
+Select count(*) from user;
+
+Select count(*) from user where first_name like 'Mathias'
+
+SELECT name, fuel, horsepower, price FROM car WHERE price BETWEEN '100' AND '200'
+
+
